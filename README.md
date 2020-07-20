@@ -3,4 +3,4 @@
 Run news.java (this will only work for '/' separated urls)
 
 
-*This is just for learning purpose, please use this at your own risk*
+*This is just for learning purpose*
